@@ -2,7 +2,7 @@
 
 <h2 align="center" style="color:orange;">
 📁 Assignment 1 and Assignment 2 are under the <b>ICP repository</b> <br>
-❌ NOT under the <b>assignment</b> folder.
+But NOT under the <b>assignment</b> folder.
 </h2>
 
 <hr>
